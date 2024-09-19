@@ -1,0 +1,11 @@
+C:\Users\Даниил\source\repos\DB_dlls\Suppliers\Suppliers\bin\Debug\Suppliers.dll
+C:\Users\Даниил\source\repos\DB_dlls\Suppliers\Suppliers\bin\Debug\Suppliers.pdb
+C:\Users\Даниил\source\repos\DB_dlls\Suppliers\Suppliers\obj\Debug\Suppliers.csproj.AssemblyReference.cache
+C:\Users\Даниил\source\repos\DB_dlls\Suppliers\Suppliers\obj\Debug\Suppliers.AddForm.resources
+C:\Users\Даниил\source\repos\DB_dlls\Suppliers\Suppliers\obj\Debug\Suppliers.EditForm.resources
+C:\Users\Даниил\source\repos\DB_dlls\Suppliers\Suppliers\obj\Debug\Suppliers.InfoForm.resources
+C:\Users\Даниил\source\repos\DB_dlls\Suppliers\Suppliers\obj\Debug\Suppliers.SuppliersControl.resources
+C:\Users\Даниил\source\repos\DB_dlls\Suppliers\Suppliers\obj\Debug\Suppliers.csproj.GenerateResource.cache
+C:\Users\Даниил\source\repos\DB_dlls\Suppliers\Suppliers\obj\Debug\Suppliers.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\source\repos\DB_dlls\Suppliers\Suppliers\obj\Debug\Suppliers.dll
+C:\Users\Даниил\source\repos\DB_dlls\Suppliers\Suppliers\obj\Debug\Suppliers.pdb

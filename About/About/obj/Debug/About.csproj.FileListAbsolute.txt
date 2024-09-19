@@ -1,0 +1,6 @@
+C:\Users\Даниил\source\repos\DB_dlls\About\About\bin\Debug\About.dll
+C:\Users\Даниил\source\repos\DB_dlls\About\About\bin\Debug\About.pdb
+C:\Users\Даниил\source\repos\DB_dlls\About\About\obj\Debug\About.csproj.AssemblyReference.cache
+C:\Users\Даниил\source\repos\DB_dlls\About\About\obj\Debug\About.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\source\repos\DB_dlls\About\About\obj\Debug\About.dll
+C:\Users\Даниил\source\repos\DB_dlls\About\About\obj\Debug\About.pdb

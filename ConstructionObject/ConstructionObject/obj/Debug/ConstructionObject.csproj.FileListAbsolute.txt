@@ -1,0 +1,15 @@
+C:\Users\Даниил\source\repos\DB_dlls\ConstructionObject\ConstructionObject\bin\Debug\ConstructionObject.dll
+C:\Users\Даниил\source\repos\DB_dlls\ConstructionObject\ConstructionObject\bin\Debug\ConstructionObject.pdb
+C:\Users\Даниил\source\repos\DB_dlls\ConstructionObject\ConstructionObject\obj\Debug\ConstructionObject.csproj.AssemblyReference.cache
+C:\Users\Даниил\source\repos\DB_dlls\ConstructionObject\ConstructionObject\obj\Debug\ConstructionObject.AddForm.resources
+C:\Users\Даниил\source\repos\DB_dlls\ConstructionObject\ConstructionObject\obj\Debug\ConstructionObject.EditForm.resources
+C:\Users\Даниил\source\repos\DB_dlls\ConstructionObject\ConstructionObject\obj\Debug\ConstructionObject.ObjectsControl.resources
+C:\Users\Даниил\source\repos\DB_dlls\ConstructionObject\ConstructionObject\obj\Debug\ConstructionObject.csproj.GenerateResource.cache
+C:\Users\Даниил\source\repos\DB_dlls\ConstructionObject\ConstructionObject\obj\Debug\ConstructionObject.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\source\repos\DB_dlls\ConstructionObject\ConstructionObject\obj\Debug\ConstructionObject.dll
+C:\Users\Даниил\source\repos\DB_dlls\ConstructionObject\ConstructionObject\obj\Debug\ConstructionObject.pdb
+C:\Users\Даниил\source\repos\DB_dlls\ConstructionObject\ConstructionObject\obj\Debug\ConstructionObject.AboutForm.resources
+C:\Users\Даниил\source\repos\DB_dlls\ConstructionObject\ConstructionObject\obj\Debug\ConstructionObject.AddWork.resources
+C:\Users\Даниил\source\repos\DB_dlls\ConstructionObject\ConstructionObject\obj\Debug\ConstructionObject.CompleteWorkForm.resources
+C:\Users\Даниил\source\repos\DB_dlls\ConstructionObject\ConstructionObject\obj\Debug\ConstructionObject.EditWork.resources
+C:\Users\Даниил\source\repos\DB_dlls\ConstructionObject\ConstructionObject\obj\Debug\ConstructionObject.InfoForm.resources

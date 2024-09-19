@@ -1,0 +1,9 @@
+C:\Users\Даниил\source\repos\DB_dlls\UserAccess\UserAccess\bin\Debug\UserAccess.dll
+C:\Users\Даниил\source\repos\DB_dlls\UserAccess\UserAccess\bin\Debug\UserAccess.pdb
+C:\Users\Даниил\source\repos\DB_dlls\UserAccess\UserAccess\obj\Debug\UserAccess.csproj.AssemblyReference.cache
+C:\Users\Даниил\source\repos\DB_dlls\UserAccess\UserAccess\obj\Debug\UserAccess.AccessForm.resources
+C:\Users\Даниил\source\repos\DB_dlls\UserAccess\UserAccess\obj\Debug\UserAccess.SetAccessForm.resources
+C:\Users\Даниил\source\repos\DB_dlls\UserAccess\UserAccess\obj\Debug\UserAccess.csproj.GenerateResource.cache
+C:\Users\Даниил\source\repos\DB_dlls\UserAccess\UserAccess\obj\Debug\UserAccess.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\source\repos\DB_dlls\UserAccess\UserAccess\obj\Debug\UserAccess.dll
+C:\Users\Даниил\source\repos\DB_dlls\UserAccess\UserAccess\obj\Debug\UserAccess.pdb

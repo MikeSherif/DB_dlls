@@ -1,0 +1,11 @@
+C:\Users\Даниил\source\repos\DB_dlls\BuildersForemen\BuildersForemen\bin\Debug\BuildersForemen.dll
+C:\Users\Даниил\source\repos\DB_dlls\BuildersForemen\BuildersForemen\bin\Debug\BuildersForemen.pdb
+C:\Users\Даниил\source\repos\DB_dlls\BuildersForemen\BuildersForemen\obj\Debug\BuildersForemen.csproj.AssemblyReference.cache
+C:\Users\Даниил\source\repos\DB_dlls\BuildersForemen\BuildersForemen\obj\Debug\BuildersForemen.AddForm.resources
+C:\Users\Даниил\source\repos\DB_dlls\BuildersForemen\BuildersForemen\obj\Debug\BuildersForemen.WorkersControl.resources
+C:\Users\Даниил\source\repos\DB_dlls\BuildersForemen\BuildersForemen\obj\Debug\BuildersForemen.csproj.GenerateResource.cache
+C:\Users\Даниил\source\repos\DB_dlls\BuildersForemen\BuildersForemen\obj\Debug\BuildersForemen.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\source\repos\DB_dlls\BuildersForemen\BuildersForemen\obj\Debug\BuildersForemen.dll
+C:\Users\Даниил\source\repos\DB_dlls\BuildersForemen\BuildersForemen\obj\Debug\BuildersForemen.pdb
+C:\Users\Даниил\source\repos\DB_dlls\BuildersForemen\BuildersForemen\obj\Debug\BuildersForemen.EditForm.resources
+C:\Users\Даниил\source\repos\DB_dlls\BuildersForemen\BuildersForemen\obj\Debug\BuildersForemen.InfoForm.resources

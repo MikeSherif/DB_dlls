@@ -1,0 +1,11 @@
+C:\Users\Даниил\source\repos\DB_dlls\Brigades\Brigades\bin\Debug\Brigades.dll
+C:\Users\Даниил\source\repos\DB_dlls\Brigades\Brigades\bin\Debug\Brigades.pdb
+C:\Users\Даниил\source\repos\DB_dlls\Brigades\Brigades\obj\Debug\Brigades.csproj.AssemblyReference.cache
+C:\Users\Даниил\source\repos\DB_dlls\Brigades\Brigades\obj\Debug\Brigades.BrigadeControl.resources
+C:\Users\Даниил\source\repos\DB_dlls\Brigades\Brigades\obj\Debug\Brigades.csproj.GenerateResource.cache
+C:\Users\Даниил\source\repos\DB_dlls\Brigades\Brigades\obj\Debug\Brigades.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\source\repos\DB_dlls\Brigades\Brigades\obj\Debug\Brigades.dll
+C:\Users\Даниил\source\repos\DB_dlls\Brigades\Brigades\obj\Debug\Brigades.pdb
+C:\Users\Даниил\source\repos\DB_dlls\Brigades\Brigades\obj\Debug\Brigades.AddForm.resources
+C:\Users\Даниил\source\repos\DB_dlls\Brigades\Brigades\obj\Debug\Brigades.EditForm.resources
+C:\Users\Даниил\source\repos\DB_dlls\Brigades\Brigades\obj\Debug\Brigades.InfoForm.resources
